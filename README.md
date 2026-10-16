@@ -25,6 +25,8 @@ They are simplified, static studies. None of them has a mesh convergence study o
 
 Each repo has a `models/` folder with the final `.inp` files. In Abaqus/CAE: File → Import → Model, then pick the `.inp` file. I used version 6.14.
 
+Portfolio: [lorena-pop84.github.io](https://lorena-pop84.github.io)
+
 ## Contact
 
 [LinkedIn](https://www.linkedin.com/in/pop-lorena) · lorena.pop84@gmail.com
